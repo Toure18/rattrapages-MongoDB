@@ -41,7 +41,13 @@ Ce projet est une API backend Node.js organisée en architecture modulaire, enti
 git clone https://github.com/Toure18/rattrapages-MongoDB.git
 ```
 
-2. Créer un fichier `.env` avec les variables suivantes :
+2. Installer les dépendances Node.js
+
+```bash
+npm install
+```
+
+3. Créer un fichier `.env` avec les variables suivantes :
 
 ```
 PORT=3000
